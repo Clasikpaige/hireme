@@ -13,7 +13,7 @@ export default function Success() {
 
       <main>
         <h1>Submission Received!</h1>
-        <p>Thank you for your interests in my services! Head back to the <Link href="/"><a>home page</a></Link>.</p>
+        <p>Thank you for your interests in my services! Will be in touch soon <Link href="/"><a>home page</a></Link>.</p>
       </main>
 
       <Footer />
