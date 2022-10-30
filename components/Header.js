@@ -9,7 +9,7 @@ export default function Header({ title }) {
       
         
        
-        ! Message me!
+         Message me!
       </p>
     </>
   );
