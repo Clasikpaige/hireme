@@ -8,9 +8,8 @@ export default function Header({ title }) {
         You can also reach me out for open source collaboration, 
       
         
- _You can find the code for this project on my GitHub repository_
        
-        ! Message me now!
+        ! Message me!
       </p>
     </>
   );
