@@ -3,11 +3,12 @@ export default function Header({ title }) {
     <>
       <h1 className="title">{title}</h1>
       <p>
-        Hi there👋! This is my (reach me out page). You can fill out your name , email address and which of my services you would be needing ,
+        Hi there👋! This is my (reach out 2 me page). You can fill in your name , email address and which of my services you would be needing ,
       
-        You can also reach me out on open source collaboration, 
+        You can also reach me out for open source collaboration, 
       
-        You can find the code for this project on my GitHub repository
+        
+ _You can find the code for this project on my GitHub repository_
        
         ! Message me now!
       </p>
